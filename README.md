@@ -68,5 +68,5 @@ This project, conducted as part of the **Data Mining** course at **Cape Breton U
 
 ---
 
-## 📂 Repository Structure
+
 
