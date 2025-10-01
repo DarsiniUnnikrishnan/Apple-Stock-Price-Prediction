@@ -1,7 +1,7 @@
 # 📈 Apple Stock Price Prediction
 
 ## 📌 Overview
-This project, conducted as part of the **Data Mining** course at **Cape Breton University**, focuses on building a machine learning model to predict Apple Inc.'s stock prices using historical data. By preparing the data with advanced preprocessing techniques and selecting an appropriate regression model, the project achieved a **20% accuracy improvement** over previous prediction models, demonstrating the potential of data-driven financial forecasting.
+This project, conducted as part of the course at **Cape Breton University**, focuses on building a machine learning model to predict Apple Inc.'s stock prices using historical data. By preparing the data with advanced preprocessing techniques and selecting an appropriate regression model, the project achieved a **20% accuracy improvement** over previous prediction models, demonstrating the potential of data-driven financial forecasting.
 
 ---
 
